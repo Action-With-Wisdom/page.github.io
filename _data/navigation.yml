@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Team introduction"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Product introduction"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Future outlook"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Cooperative company"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
+  - title: "Contact us"
     url: /markdown/
