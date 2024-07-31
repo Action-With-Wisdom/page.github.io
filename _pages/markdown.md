@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Wechat Code
-[](../images/wechat.jpg)
+[Picture](../images/wechat.jpg)
 
 ## Email
 2226124246@qq.com
