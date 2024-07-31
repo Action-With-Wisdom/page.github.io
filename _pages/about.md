@@ -9,4 +9,4 @@ redirect_from:
 
 You can find our project code here: [Total Project Code](../assets/ZDX.zip)
 
-[Email](2226124246@qq.com) / [Github](https://github.com/Action-With-Wisdom/page.github.io) / [Wechat](../images/wechat.png)
+[Email](2226124246@qq.com) / [Github](https://github.com/Action-With-Wisdom/page.github.io) / [Wechat](../images/wechat.jpg)
